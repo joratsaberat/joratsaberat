@@ -1,4 +1,4 @@
-### joratsaberat
+### - **Discord**: [joratsaberat](https://discord.com/users/joratsaberat)
 
 <!--
 **joratsaberat/joratsaberat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
